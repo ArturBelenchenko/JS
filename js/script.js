@@ -74,5 +74,8 @@ console.log(strnw);
 var textmessage = 'Привет Олег!';
 console.log(textmessage.toUpperCase());
 
+var Str = 'ПРИВЕТ СЕРГЕЙ!';
+console.log(Str.toLowerCase());
+
 
 
